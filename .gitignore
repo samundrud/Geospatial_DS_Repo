@@ -3,5 +3,8 @@
 
 **/.DS_Store
 _api_keys.json
-.png
+*.png
 Data/
+*.ipynb_checkpoints
+*/iframe_figures
+*/cache
